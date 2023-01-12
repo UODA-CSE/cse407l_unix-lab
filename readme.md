@@ -36,6 +36,14 @@ $ nano <filename>.sh
 $ bash <filename>.sh
 ```
 ---
+## Table of Contents
+
+### [Lab-1](/Lab-1/)
+Date: Jan 09 2023
+- Lab-01.1 [Echo commands](/Lab-1/lec01.1_echo.sh)
+- Lab-01.2 [Data types](/Lab-1/lec01.2_data_types.sh)
+- Lab-01.3 [Variables](/Lab-1/lec01.2_variables.sh)
+---
 <h3 align="center">
 Please check the branhes for the parts of the classes.
 </h3>
