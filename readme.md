@@ -43,6 +43,12 @@ Date: Jan 09 2023
 - Lab-01.1 [Echo commands](/Lab-1/lec01.1_echo.sh)
 - Lab-01.2 [Data types](/Lab-1/lec01.2_data_types.sh)
 - Lab-01.3 [Variables](/Lab-1/lec01.2_variables.sh)
+
+### [Lab-2](/Lab-2/)
+Date: Jan 09 2023
+- Lab-02.1 [Arithmetic operations](/Lab-2/lec02.1_arithmetic_operations.sh)
+- Lab-02.2 [Conditional statements](/Lab-2/lec02.2_conditional_statements.sh)
+
 ---
 <h3 align="center">
 Please check the branhes for the parts of the classes.
