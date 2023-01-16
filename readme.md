@@ -49,6 +49,11 @@ Date: Jan 09 2023
 - Lab-02.1 [Arithmetic operations](/Lab-2/lec02.1_arithmetic_operations.sh)
 - Lab-02.2 [Conditional statements](/Lab-2/lec02.2_conditional_statements.sh)
 
+### [Lab-3](/Lab-3/)
+Date: Jan 16 2023
+- Lab-03.1 [Case conversion](/Lab-3/lab03.1_case_conversion.sh)
+- Lab-03.2 [String splitting](/Lab-3/lab03.2_string_split.sh)
+
 ---
 <h3 align="center">
 Please check the branhes for the parts of the classes.
