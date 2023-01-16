@@ -1,6 +1,5 @@
-# Lab-1
+# Lab-2
 ## User Input in Bash
-Option of Read Command Table
 
 | Option | Description |
 | ------ | ----------- |
