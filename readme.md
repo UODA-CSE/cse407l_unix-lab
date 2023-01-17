@@ -54,6 +54,13 @@ Date: Jan 16 2023
 - Lab-03.1 [Case conversion](/Lab-3/lab03.1_case_conversion.sh)
 - Lab-03.2 [String splitting](/Lab-3/lab03.2_string_split.sh)
 
+### [Lab-4](/Lab-4/)
+Date: Jan 16 2023
+- Lab-04.1 [String Length](/Lab-4/lab04.1_string_len.sh)
+- Lab-04.2 [String Trimming](/Lab-4/lab04.2_string_trim.sh)
+- Lab-04.3 [String Count Upper Lower](/Lab-4/lab04.3_count_upper_and_lower.sh)
+
+
 ---
 <h3 align="center">
 Please check the branhes for the parts of the classes.
