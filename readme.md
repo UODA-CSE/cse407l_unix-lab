@@ -60,6 +60,11 @@ Date: Jan 16 2023
 - Lab-04.2 [String Trimming](/Lab-4/lab04.2_string_trim.sh)
 - Lab-04.3 [String Count Upper Lower](/Lab-4/lab04.3_count_upper_and_lower.sh)
 
+### [Lab-5](/Lab-5/)
+Date: Jan 22 2023
+- Lab-05.1 [Conditional statements w/ `if-else`](/Lab-5/lab05.1_ifelse.sh)
+- Lab-05.2 [Conditional statements w/ `case`](/Lab-5/lab05.2_case.sh)
+
 <h3 align="center">
 Please check the branhes for the parts of the classes.
 </h3>
