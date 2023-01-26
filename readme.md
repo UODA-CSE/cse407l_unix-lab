@@ -65,6 +65,12 @@ Date: Jan 22 2023
 - Lab-05.1 [Conditional statements w/ `if-else`](/Lab-5/lab05.1_ifelse.sh)
 - Lab-05.2 [Conditional statements w/ `case`](/Lab-5/lab05.2_case.sh)
 
+### [Lab-6](/Lab-6/)
+Date: Jan 23 2023
+- Lab-06.1 [Compare Strings](/Lab-6/lab06.01_compare_str.sh)
+- Lab-06.2 [Globbing](/Lab-6/lab06.02_globbing.sh)
+- Lab-06.3 [File System](/Lab-6/lab06.03_filesystem.sh)
+
 <h3 align="center">
 Please check the branhes for the parts of the classes.
 </h3>
